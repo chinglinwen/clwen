@@ -1,4 +1,4 @@
-baseURL = "https://chinglinwen.github.io/"
+baseURL = "https://chinglinwen.github.io/clwen/"
 languageCode = "en-us"
 title = "Chinglin"
 theme = "hugo-vitae"
