@@ -1,8 +1,8 @@
 baseURL = "https://chinglinwen.github.io/clwen/"
 languageCode = "en-us"
 title = "Chinglin"
-theme = "hugo-vitae"
-#theme = "gohugo-theme-ananke"
+#theme = "hugo-vitae"
+theme = "gohugo-theme-ananke"
 
 publishDir = "docs"
 
