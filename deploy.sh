@@ -1,8 +1,8 @@
 set -e
 
 hugo
-git add .
 git status
+git add .
 msg="build from $(date +%F_%T)"
 msginput="$1"
 commitmsg="${msginput:=$msg}"
