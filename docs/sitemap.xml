@@ -3,23 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chinglinwen.github.io/authors/</loc>
+    <loc>http://g.clwen.com/tags/about/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chinglinwen.github.io/categories/</loc>
+    <loc>http://g.clwen.com/posts/about/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chinglinwen.github.io/</loc>
+    <loc>http://g.clwen.com/authors/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chinglinwen.github.io/series/</loc>
+    <loc>http://g.clwen.com/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chinglinwen.github.io/tags/</loc>
+    <loc>http://g.clwen.com/posts/hello/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/tags/personal/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/posts/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/series/random/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/series/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/tags/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/series/test/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/authors/wen/</loc>
+    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://g.clwen.com/categories/</loc>
   </url>
   
 </urlset>

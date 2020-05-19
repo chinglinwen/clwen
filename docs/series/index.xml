@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Chinglin</title>
-    <link>https://chinglinwen.github.io/series/</link>
+    <link>http://g.clwen.com/series/</link>
     <description>Recent content in Series on Chinglin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2020 23:30:30 +0800</lastBuildDate>
     
-	<atom:link href="https://chinglinwen.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://g.clwen.com/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>random</title>
+      <link>http://g.clwen.com/series/random/</link>
+      <pubDate>Fri, 14 Feb 2020 23:30:30 +0800</pubDate>
+      
+      <guid>http://g.clwen.com/series/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://g.clwen.com/series/test/</link>
+      <pubDate>Fri, 14 Feb 2020 23:30:30 +0800</pubDate>
+      
+      <guid>http://g.clwen.com/series/test/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

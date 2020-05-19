@@ -1,8 +1,10 @@
-baseURL = "https://chinglinwen.github.io/"
+baseURL = "http://clwen.com/"
+BaseURL = "http://clwen.com/"
+
 languageCode = "en-us"
 title = "Chinglin"
-#theme = "hugo-vitae"
-theme = "gohugo-theme-ananke"
+theme = "vitae"
+#theme = "ananke"
 
 publishDir = "docs"
 
@@ -63,13 +65,13 @@ googleAnalytics = ""
     pre = "<i class='fa fa-heart'></i>"
     weight = -110
     identifier = "about"
-    url = "/about/"
-[[menu.main]]
-    name = "research"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "research"
-    url = "/research/"
+    url = "/posts/about/"
+# [[menu.main]]
+#     name = "research"
+#     pre = "<i class='fa fa-heart'></i>"
+#     weight = -110
+#     identifier = "research"
+#     url = "/posts/research/"
 
 [[menu.main]]
     name = "posts"

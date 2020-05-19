@@ -1,0 +1,20 @@
+Building sites … 
+                   | EN  
+-------------------+-----
+  Pages            | 28  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 23  
+  Processed images |  0  
+  Aliases          |  1  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 97 ms
+Watching for changes in /home/wen/git/githubhook/blogs/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /home/wen/git/githubhook/blogs/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://clwen.com:1314/ (bind address 0.0.0.0)
+Press Ctrl+C to stop

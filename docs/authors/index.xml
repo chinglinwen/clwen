@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Chinglin</title>
-    <link>https://chinglinwen.github.io/authors/</link>
+    <link>http://g.clwen.com/authors/</link>
     <description>Recent content in Authors on Chinglin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2020 23:30:30 +0800</lastBuildDate>
     
-	<atom:link href="https://chinglinwen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://g.clwen.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>wen</title>
+      <link>http://g.clwen.com/authors/wen/</link>
+      <pubDate>Fri, 14 Feb 2020 23:30:30 +0800</pubDate>
+      
+      <guid>http://g.clwen.com/authors/wen/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

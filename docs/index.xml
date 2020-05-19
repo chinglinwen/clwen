@@ -1,14 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chinglin</title>
-    <link>https://chinglinwen.github.io/</link>
+    <link>http://g.clwen.com/</link>
     <description>Recent content on Chinglin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2020 23:30:30 +0800</lastBuildDate>
     
-	<atom:link href="https://chinglinwen.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://g.clwen.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+          <title>about</title>
+          <link>http://g.clwen.com/posts/about/</link>
+          <pubDate>Fri, 14 Feb 2020 23:30:30 &#43;0800</pubDate>
+          
+          <guid>http://g.clwen.com/posts/about/</guid>
+          <description>Abouta chinglin.</description>
+        </item>
+        <item>
+          <title>Hello</title>
+          <link>http://g.clwen.com/posts/hello/</link>
+          <pubDate>Fri, 14 Feb 2020 23:30:30 &#43;0800</pubDate>
+          
+          <guid>http://g.clwen.com/posts/hello/</guid>
+          <description>Hello there! Nice to meet you !</description>
+        </item>
+        
   </channel>
 </rss>
