@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Chinglin</title>
-    <link>http://g.clwen.com/series/</link>
+    <link>http://clwen.com/series/</link>
     <description>Recent content in Series on Chinglin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2020 23:30:30 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 23:30:30 +0800</lastBuildDate>
     
-	<atom:link href="http://g.clwen.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://clwen.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>random</title>
-      <link>http://g.clwen.com/series/random/</link>
-      <pubDate>Fri, 14 Feb 2020 23:30:30 +0800</pubDate>
+      <title>test</title>
+      <link>http://clwen.com/series/test/</link>
+      <pubDate>Sat, 15 Feb 2020 23:30:30 +0800</pubDate>
       
-      <guid>http://g.clwen.com/series/random/</guid>
+      <guid>http://clwen.com/series/test/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>http://g.clwen.com/series/test/</link>
+      <title>random</title>
+      <link>http://clwen.com/series/random/</link>
       <pubDate>Fri, 14 Feb 2020 23:30:30 +0800</pubDate>
       
-      <guid>http://g.clwen.com/series/test/</guid>
+      <guid>http://clwen.com/series/random/</guid>
       <description></description>
     </item>
     

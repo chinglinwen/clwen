@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://g.clwen.com/tags/about/</loc>
+    <loc>http://clwen.com/posts/about/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/tags/about/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/authors/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/posts/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/series/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/tags/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/series/test/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/authors/wen/</loc>
+    <lastmod>2020-02-15T23:30:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clwen.com/posts/hello/</loc>
     <lastmod>2020-02-14T23:30:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://g.clwen.com/posts/about/</loc>
+    <loc>http://clwen.com/tags/personal/</loc>
     <lastmod>2020-02-14T23:30:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://g.clwen.com/authors/</loc>
+    <loc>http://clwen.com/series/random/</loc>
     <lastmod>2020-02-14T23:30:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://g.clwen.com/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/posts/hello/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/tags/personal/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/posts/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/series/random/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/series/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/tags/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/series/test/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/authors/wen/</loc>
-    <lastmod>2020-02-14T23:30:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://g.clwen.com/categories/</loc>
+    <loc>http://clwen.com/categories/</loc>
   </url>
   
 </urlset>

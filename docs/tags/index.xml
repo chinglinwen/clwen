@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chinglin</title>
-    <link>http://g.clwen.com/tags/</link>
+    <link>http://clwen.com/tags/</link>
     <description>Recent content in Tags on Chinglin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2020 23:30:30 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 23:30:30 +0800</lastBuildDate>
     
-	<atom:link href="http://g.clwen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://clwen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>http://g.clwen.com/tags/about/</link>
-      <pubDate>Fri, 14 Feb 2020 23:30:30 +0800</pubDate>
+      <link>http://clwen.com/tags/about/</link>
+      <pubDate>Sat, 15 Feb 2020 23:30:30 +0800</pubDate>
       
-      <guid>http://g.clwen.com/tags/about/</guid>
+      <guid>http://clwen.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>http://g.clwen.com/tags/personal/</link>
+      <link>http://clwen.com/tags/personal/</link>
       <pubDate>Fri, 14 Feb 2020 23:30:30 +0800</pubDate>
       
-      <guid>http://g.clwen.com/tags/personal/</guid>
+      <guid>http://clwen.com/tags/personal/</guid>
       <description></description>
     </item>
     
